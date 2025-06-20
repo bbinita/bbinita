@@ -1,14 +1,11 @@
 ## Hi there 👋
 
-<h1 align="center">Hi, I'm Binita Bhusal!</h1>
+ I'm Binita
 
 <p align="center">
   🎓 IT Undergrad | 💻 Aspiring Developer | 🌶 Foodie & ☕ Coffee Lover  
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=binita-bhusal&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
-</p>
 
 ---
 
@@ -38,8 +35,8 @@ Hi there! I’m **Binita Bhusal**, a passionate IT student at Tribhuvan Universi
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=binita-bhusal&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binita-bhusal&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bbinita&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bbinita&theme=radical" width="48%" />
 </p>
 
 ---
@@ -48,8 +45,8 @@ Hi there! I’m **Binita Bhusal**, a passionate IT student at Tribhuvan Universi
 ### 📬 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/binitabhusal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:bbhusal394@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
