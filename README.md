@@ -33,21 +33,6 @@ I'm passionate about building backend systems and exploring how AI can be integr
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-### 🚀 Featured Project
-
-**[CivicAid](https://github.com/bbinita)** — Civic Complaint Management System  
-Django · DRF · PostgreSQL · JWT · scikit-learn · NLTK · React.js  
-A platform where citizens submit and track civic complaints, with an AI pipeline that classifies complaints automatically using TF-IDF and Naive Bayes.
-
----
-
 
 ### 📬 Connect With Me
 
