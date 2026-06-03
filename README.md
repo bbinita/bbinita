@@ -39,7 +39,7 @@ Final-year BIT student who's shipped two production backend systems one with a d
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
 
-*Also familiar with: React, JS, C#*
+*Also familiar with: React, PHP, C#*
 
 ---
 
