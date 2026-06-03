@@ -52,7 +52,7 @@ Working toward a research-based MSc in backend + ML systems (Canada / US).
 > `Django 6 · DRF · PostgreSQL · Cloudinary · Render + Vercel`
 > 🔗 [Live app](https://civicaid-sooty.vercel.app) · [API](https://civicaid-backend-mwrq.onrender.com)
 
-**[Job Portal Backend](https://github.com/bbinita/job-portal)** *(add your actual repo link)*
+**[Job Portal Backend](https://github.com/bbinita/job-portal)** 
 > Multi-role platform (company / candidate / admin) with full application lifecycle, async notifications via Celery/Redis, N+1 optimization, and Swagger docs.
 > `Django · DRF · PostgreSQL · Docker · Celery · Redis · pytest-django`
 
