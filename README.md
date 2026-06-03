@@ -1,7 +1,7 @@
 # Hi, I'm Binita 👋
 
 🎓 BIT student at Tribhuvan University, Nepal
-🔧 Backend Developer · Django/DRF · AI-integrated systems
+    Backend Developer · Django/DRF · AI-integrated systems
 🌍 Based in Butwal, Nepal
 🌐 [binitabhusal.vercel.app](https://binitabhusal.vercel.app)
 
@@ -9,9 +9,7 @@
 
 ### About me
 
-Final-year BIT student who's shipped two production backend systems — one with a deployed AI pipeline. I care about understanding how things work internally, not just making them run.
-
-Working toward a research-based MSc in backend + ML systems (Canada / US).
+Final-year BIT student who's shipped two production backend systems one with a deployed AI pipeline. I care about understanding how things work internally, not just making them run.
 
 ---
 
@@ -41,14 +39,14 @@ Working toward a research-based MSc in backend + ML systems (Canada / US).
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
 
-*Also familiar with: React, PHP, C#*
+*Also familiar with: React, JS, C#*
 
 ---
 
 ### 🚀 Projects
 
 **[CivicAid](https://github.com/bbinita/civicaid)** — civic complaint management system
-> AI-assisted complaint categorization and priority prediction (TF-IDF + Naive Bayes, ~68% accuracy), JWT auth, role-based access, OTP verification, heatmap analytics, Brevo email notifications.
+> AI-assisted complaint categorization and priority prediction (TF-IDF + Naive Bayes, ~68% accuracy), JWT auth, role-based access, OTP verification, heatmap analytics, email notifications.
 > `Django 6 · DRF · PostgreSQL · Cloudinary · Render + Vercel`
 > 🔗 [Live app](https://civicaid-sooty.vercel.app) · [API](https://civicaid-backend-mwrq.onrender.com)
 
