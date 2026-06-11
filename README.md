@@ -43,25 +43,6 @@ Shipped two production backend systems, one with a deployed AI pipeline. I care 
 
 ---
 
-### 🚀 Projects
-
-**[CivicAid](https://github.com/bbinita/civicaid)** — Civic complaint management system  
-AI-assisted complaint categorization and priority prediction (TF-IDF + Naive Bayes, ~68% accuracy), JWT auth, RBAC, OTP verification, heatmap analytics, email notifications.  
-`Django · DRF · PostgreSQL · Cloudinary · Render + Vercel`  
-🔗 [Live app](https://civicaid-sooty.vercel.app) · [API](https://civicaid-backend-mwrq.onrender.com)
-
-**[Job Portal Backend](https://github.com/bbinita/job-portal)** — Multi-role job platform  
-Full application lifecycle with status transition validation, async notifications via Celery/Redis, N+1 query optimization, Docker, and Swagger docs.  
-`Django · DRF · PostgreSQL · Docker · Celery · Redis · pytest-django`
-
----
-
-### 📊 GitHub Stats
-
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=bbinita&theme=dark&hide_border=true)
-
----
 
 ### 📬 Connect
 
