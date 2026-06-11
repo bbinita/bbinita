@@ -58,7 +58,6 @@ Full application lifecycle with status transition validation, async notification
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bbinita&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=bbinita&theme=dark&hide_border=true)
 
