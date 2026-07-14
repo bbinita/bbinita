@@ -5,7 +5,6 @@
 
 🎓 Final-year BIT student · Tribhuvan University, Nepal  
 🛠️ Backend Developer — Django · DRF · AI-integrated systems  
-🌍  Open to remote junior backend roles  
 
 ---
 
